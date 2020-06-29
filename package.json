@@ -1,8 +1,8 @@
 {
   "name": "smpl-web-data-table",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Created with smpl-react-data-table",
-  "main": "index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react-to-webcomponent": "^1.4.0",
