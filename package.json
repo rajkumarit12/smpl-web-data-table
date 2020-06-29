@@ -1,0 +1,27 @@
+{
+  "name": "smpl-web-data-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-to-webcomponent": "^1.4.0",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1",
+    "smpl-react-data-table": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumarit12/smpl-web-data-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumarit12/smpl-web-data-table/issues"
+  },
+  "homepage": "https://github.com/rajkumarit12/smpl-web-data-table#readme"
+}
